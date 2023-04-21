@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="dark_teal">#04504F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="window_background">#111111</color>
+    <color name="io_background">#222222</color>
+    <color name="red">#AE2424</color>
+    <color name="dark_red">#5C1111</color>
+    <color name="dark_orange">#714709</color>
+</resources>
